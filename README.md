@@ -1,6 +1,6 @@
 # :rocket: Crachá Virtual - NLW Heat
 
-Crachá virtual desenvolvido durante a semana da NLW Heat da @Rocketseat.
+Crachá virtual desenvolvido durante a semana da NLW Heat da Rocketseat.
 Disponível em https://lucasdiias.github.io/card-nlw/.
 
 ## :pencil2: Minhas alterações
